@@ -41,7 +41,7 @@
 1. ```rm -rf <folder-name>``` <br /> 
    -  Deletes the folder
    - -r: Recursive - Allows the folder deletion along with its subfolders and files. Deletes the sub-directories also. <br />
-    - -f: Force - Deletes directory without prompting for confirmation. </i>
+    - -f: Force - Deletes directory without prompting for confirmation.
 
 1. ```clear``` <br /> 
     Clears the Git Bash screen
@@ -55,7 +55,7 @@ In the command ```git reset --hard```, <br />
 - ```hard``` is the option which is written using single hyphen (-) or double hyphen (--) <br />
 <br />
 
-*_Basic Commands:_*
+_Basic Commands:_
 
 1. ```git --version``` <br /> 
     Tells the version of Git installed in the system
@@ -125,7 +125,7 @@ In the command ```git reset --hard```, <br />
 1. ```git config --global core.editor "code--wait"``` <br />
     Used to set VS Code as the default editor
 
-*_History Commands:_*
+_History Commands:_
 
 1. ```git log``` <br />
     - Used to check the commit history
@@ -165,7 +165,7 @@ In the command ```git reset --hard```, <br />
     - It is a safe command and if we want to do changes in different part of the code, we do so by using branches
     - To save the modifications made during the detatched HEAD state, create a new branch and the changes will get automatically saved
 
-*_Commands for Undoing Changes:_*
+_Commands for Undoing Changes:_
 
 1. ```git revert <commit-id>``` <br />
     - Undo the specific commit only and not the other commit
@@ -187,7 +187,7 @@ In the command ```git reset --hard```, <br />
 
     > The commit-id upto which we need to revert the changes are listed in the command
 
-*_Remote Commands:_*
+_Remote Commands:_
 
 1. ```git remote add origin <https-link-of-the-remote-repo>``` <br />
     Connects local repo to the remote repo
@@ -209,7 +209,7 @@ In the command ```git reset --hard```, <br />
     - Make the local branch main to track the remote branch from the origin
     - Git will push to and pull from the set branch
 
-*_Branching & Merging Commands:_*
+_Branching & Merging Commands:_
 
 1. ```git branch <branch-name>``` <br />
     Creates the new branch
@@ -242,7 +242,7 @@ In the command ```git reset --hard```, <br />
 1. ```git merge --abort``` <br />
     The merge conflicts are aborted but the changes remain as it is
 
-*Advanced Commands:_*
+_Advanced Commands:_
 
 1. ```git diff``` <br />
     Provides difference between the current working directory and the staging area
@@ -272,3 +272,5 @@ In the command ```git reset --hard```, <br />
 
 1. ```git stash``` <br />
     Sometimes we need to quickly switch tasks or fix a bug, but we're not ready for committing the work, so the command lets us save the uncommitted changes and returns us to a clean working directory
+
+---
