@@ -28,14 +28,14 @@ Merging of branches = Joining of branches
     - Move the new commit from child branch to the parent branch
 
     <p align="center">
-        <img src="../assets/Fast_Forward_Merge.png" alt="Fast Forward Merge" width="40%">
+        <img src="../assets/Fast_Forward_Merge.png" alt="Fast Forward Merge" width="60%">
     </p>
 
 1. Squash Merge
     - Collapse the commits from one branch into a single new commit on the other branch
 
     <p align="center">
-        <img src="../assets/Squash_Merge.png" alt="Squash Merge" width="40%">
+        <img src="../assets/Squash_Merge.png" alt="Squash Merge" width="60%">
     </p>
 
 1. Merge Commit
@@ -43,7 +43,7 @@ Merging of branches = Joining of branches
     - Leave the child branch in the network for traceability
 
     <p align="center">
-        <img src="../assets/Merge_Commit.png" alt="Merge Commit" width="40%">
+        <img src="../assets/Merge_Commit.png" alt="Merge Commit" width="60%">
     </p>
 
 #### Merge Conflicts
@@ -77,7 +77,7 @@ Merging of branches = Joining of branches
     <br />
     ```git merge``` (Useful for working in teams) <br />
     &emsp; &emsp; &emsp; &emsp; A &rarr; B &rarr; E &rarr; F <br />
-    &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; &ensp; &vert; &emsp; &vert; <br />
+    &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; &ensp; &darr; &emsp; &darr; <br />
     &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; C &rarr; D &rarr; M (merge commit)<br />
     <br />
     ```git rebase``` (Used for working alone, to clean history/linear history) <br />

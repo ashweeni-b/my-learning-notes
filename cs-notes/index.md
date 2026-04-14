@@ -7,5 +7,7 @@
 - [Git](./git/basics.md)
 - [Commands in Git](./git/commands.md)
 - [Some Concepts in Git](./git/concepts.md)
+- [Commits](./git/commits.md)
+- [SSH vs HTTPS](./git/ssh_http.md)
 
 ---
