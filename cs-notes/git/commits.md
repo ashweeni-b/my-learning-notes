@@ -30,3 +30,5 @@ Closes \#12
 | chore | Folder structure, config, setup |
 | perf | Performance improvement |
 | revert | Undoing a previous commit |
+
+---

@@ -1,32 +1,30 @@
 ### SSH vs HTTPS
 
 SSH and HTTPS both are methods to connect the local machine to a remote repo
+<br />
 
-- SSH (Secure Shell)
-    - A protocol used for secure remote access and authentication
-    - Used in Git via SSH keys
+_SSH (Secure Shell)_
 
-- SSH Pros
-    - Better security compared to HTTPS
-    - Uses public-key cryptography which enhances authentication security
-    - Streamlines authentication process
+- A protocol used for secure remote access and authentication
+- Used in Git via SSH keys
 
-- SSH Cons
-    - Setting up and managing SSH keys may be more complex
-    - Communication may be restricted by firewall
+| SSH Pros | SSH Cons |
+| -------- | ------- |
+| Better security compared to HTTPS | Setting up and managing SSH keys may be more complex |
+| Uses public-key cryptography which enhances authentication security | Communication may be restricted by firewall |
+| Streamlines authentication process |  |
 
-- HTTPS (Hyper Text Transfer Protocol Secure)
-    - A protocol used for secure communication over the web
-    - Used in browsers and Git via tokens
+<br />
 
-- HTTPS Pros
-    - More straightforward setup compared to SSH
-    - Authenticate with an username and password or with a personal access token if using GitHub
-    - More compatible with firewalls
+_HTTPS (Hyper Text Transfer Protocol Secure)_
+- A protocol used for secure communication over the web
+- Used in browsers and Git via tokens
 
-- HTTPS Cons
-    - SSH is considered more secure
-    - User may need to enter their credentials frequently <br />
-        Credential caching tools may be used to avoid this issue <br />
-        Windows - Credential Manager <br />
-        Mac - Keychain Access
+
+| HTTPS Pros | HTTPS Cons |
+| -------- | ------- |
+| More straightforward setup compared to SSH | SSH is considered more secure |
+| Authenticate with an username and password or with a personal access token if using GitHub | User may need to enter their credentials frequently. Credential caching tools may be used to avoid this issue. For example, Credential Manager in Windows  and Keychain Access in Mac |
+| More compatible with firewalls |  |
+
+---
