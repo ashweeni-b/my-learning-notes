@@ -1,9 +1,7 @@
 ### GitHub
 
 - Builds on top of Git by adding collaboration tools, automation features and a user-friendly web interface
-- Cloud-based platform that ses Git at its core
-
-<br />
+- Cloud-based platform that ses Git at its core <br />
 
 _GitHub Enterprise Platform:_
 - Powered by AI

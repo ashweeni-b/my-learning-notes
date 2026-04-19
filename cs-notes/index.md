@@ -12,4 +12,8 @@
 
 ### GitHub
 - [GitHub](./github/basics.md)
+- [Gists](./github/gists.md)
+- [Wikis](./github/wikis.md)
+
+
 ---
