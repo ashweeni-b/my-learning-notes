@@ -18,6 +18,6 @@
 - [Git Flow](./github/git_flow.md)
 - [GitHub Pages](./github/github_pages.md)
 - [Issues](./github/issues.md)
-
+- [Discussions](./github/discussions.md)
 
 ---
