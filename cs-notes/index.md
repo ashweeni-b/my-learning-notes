@@ -17,5 +17,7 @@
 - [Feature Previews](./github/feature_preview.md)
 - [Git Flow](./github/git_flow.md)
 - [GitHub Pages](./github/github_pages.md)
+- [Issues](./github/issues.md)
+
 
 ---
