@@ -14,6 +14,8 @@
 - [GitHub](./github/basics.md)
 - [Gists](./github/gists.md)
 - [Wikis](./github/wikis.md)
-
+- [Feature Previews](./github/feature_preview.md)
+- [Git Flow](./github/git_flow.md)
+- [GitHub Pages](./github/github_pages.md)
 
 ---
