@@ -20,7 +20,7 @@
     - No remote repo and collaboration
     
     <p align="center">
-        <img src="../assets/Local_VCS.png" alt="Local Version Control System" width="40%">
+        <img src="../version_control/assets/Local_VCS.png" alt="Local Version Control System" width="40%">
     </p>
 
 1. Centralized Version Control System
@@ -30,7 +30,7 @@
     - Knowingly or unknowingly the files may get affected
 
     <p align="center">
-        <img src="../assets/Centralized_VCS.png" alt="Centralized Version Control System" width="40%">
+        <img src="../version_control/assets/Centralized_VCS.png" alt="Centralized Version Control System" width="40%">
     </p>
 
 1. Distributed Version Control System
@@ -39,7 +39,7 @@
     - Updates are pushed from local to the remote repo
 
     <p align="center">
-        <img src="../assets/Distributed_VCS.png" alt="Distributed Version Control System" width="40%">
+        <img src="../version_control/assets/Distributed_VCS.png" alt="Distributed Version Control System" width="40%">
     </p>
 
 ---
