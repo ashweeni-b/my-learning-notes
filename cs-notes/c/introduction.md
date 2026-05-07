@@ -6,7 +6,7 @@
 - Foundation of C\+\+, Java and Python
 - Developed for writing the Unix operating system
 
-#### Why C\?
+#### Why C?
 
 Initially developed for Unix OS, but in current time it is used for the development of Embedded System, Real Time Algorithms and Operating System
 

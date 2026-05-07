@@ -13,6 +13,7 @@ My goal is to grow into a hands-on engineer by staying consistent, mastering fun
 ### Sections
 
 - 💻 [Computer Science](./cs-notes/index.md)
+- 📐 [Mathematics](./maths/index.md) 
 
 ---
 
