@@ -1,6 +1,7 @@
 ### 📂 C Topics
 
 1. [Introduction](./introduction.md)
-2. [Structure of C Program](./structure_and_execution.md)
+2. [Structure of C Program](./structure.md)
+3. [Execution of C Program](./execution.md)
 
 ---
