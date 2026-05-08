@@ -114,7 +114,7 @@ The memory taken by the datatypes is checked using the ```sizeof()``` operator i
     printf("Format specifier", variable);
     ```
 
-    > _Note:_ %8.1f denotes the floating-point number, where 8 denotes the imaginary box and 1 represents the number of digits to be printed after the decimal point
+    _Note:_ %8.1f denotes the floating-point number, where 8 denotes the imaginary box and 1 represents the number of digits to be printed after the decimal point
 ---
 
 #### Escape Sequences
