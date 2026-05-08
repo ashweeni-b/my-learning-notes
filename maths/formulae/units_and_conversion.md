@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Units & Conversion Formulae
+title: Units & Conversion
 ---
 
-### Units & Conversion Formulae
+### Units & Conversion
 
 #### Temperature
 

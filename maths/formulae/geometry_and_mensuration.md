@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Geometry and Mensuration Formulae
+title: Geometry and Mensuration
 ---
 
-### Geometry & Mensuration Formulae
+### Geometry & Mensuration
 
 #### Rectangle
 
