@@ -5,5 +5,7 @@
 3. [Execution of Program](./execution.md)
 4. [Basic Concepts](./basic_concepts.md)
 5. [Instructions](./instructions.md)
+6. [Operators](./operators.md)
+7. [Conditional Instructions](./conditionals.md)
 
 ---
