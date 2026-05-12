@@ -115,6 +115,7 @@ The memory taken by the datatypes is checked using the ```sizeof()``` operator i
     ```
 
     _Note:_ %8.1f denotes the floating-point number, where 8 denotes the imaginary box and 1 represents the number of digits to be printed after the decimal point
+
 ---
 
 #### Escape Sequences
@@ -124,7 +125,7 @@ The memory taken by the datatypes is checked using the ```sizeof()``` operator i
 
 1. Newline - \n
 1. Tab - \t
-1. Backslash - \\\
+1. Backslash - \\\\
 1. Single quote - \\'
 1. Dobule quote - \\"
 1. Question mark - \\?
