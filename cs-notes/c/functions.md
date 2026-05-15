@@ -67,6 +67,6 @@ int sum(int a, int b) {
 
 The variables passing into the function call are the arguments and the one defined in the function declaration are parameters. Here, _a_ and _b_ are the parameters and _x_ and _y_ are the arguments.
 
-> Copy of variables are passed are arguments to the functions.
+_Note:_ Copy of variables are passed are arguments to the functions.
 
 ---
