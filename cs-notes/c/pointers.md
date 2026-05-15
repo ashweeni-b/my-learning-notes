@@ -16,7 +16,7 @@ Used to obtain the value at a given memory address
 
 #### Pointer Visualization
 
-![Pointer to Pointer](./assets/Pointer_to_Pointer.png)
+![Pointer to Pointer](./assets/Pointer_Visualization.png)
 
 Here, the variable `i` is the integer variable which stores value, `j` is the pointer variable which stores the address of variable `i` and `k` is the pointer to pointer variable which stores the address of variable `j`.
 
