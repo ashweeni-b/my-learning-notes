@@ -34,9 +34,9 @@ Conditions are met and instructions are executed
     }
     ```
 
-    > 1. The else statement mandatorily requires if statement but not vice-versa
-    > 1. Multiple else-if statements can be written within the conditional instructions
-    > 1. These loops can also be nested within each other
+    - The else statement mandatorily requires if statement but not vice-versa
+    - Multiple else-if statements can be written within the conditional instructions
+    - These loops can also be nested within each other
 
 1. switch statement
 
@@ -59,8 +59,8 @@ Conditions are met and instructions are executed
     }
     ```
 
-    > 1. Cases within switch statement can be written in any order and not necessarily ascending or descending
-    > 1. `char` values are allowed in cases as their values can be evaluated to integer
-    > 1. A switch can occur within another but in practice it is rarely done
+    - Cases within switch statement can be written in any order and not necessarily ascending or descending
+    - `char` values are allowed in cases as their values can be evaluated to integer
+    - A switch can occur within another but in practice it is rarely done
 
-    ---
+---
